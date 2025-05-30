@@ -1,1 +1,1 @@
-{ "action": "sendMessage", "message": "Hello from client!" }
+{ "action": "sendMessage", "message": "Hello from client!", "userId": "123" }
