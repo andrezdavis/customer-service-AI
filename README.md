@@ -4,6 +4,7 @@
 Customer Service AI Bot enables businesses to provide an intelligent agent, able to support customers nearly as effectively as a human customer support agent. 
 The AI bot integrates with business logic and guidelines to work with the product issues that a customer is dealing with while only referencing business rules to do so.
 This strongly improves the bandwidth of support operations, maintains business integrity with the customer and alleviates incidents nearly as effectively as manual customer support.
+The implementation for this application is free for small-scale applications and handles large-scale flows for very cheap.
 
 ## User Flow
 - User has query and navigates to the company site page to interact with the Customer Service bot.
