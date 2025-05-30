@@ -10,7 +10,7 @@ The implementation for this application is free for small-scale applications and
 - User has query and navigates to the company site page to interact with the Customer Service bot.
 - User initiates a Websocket connection from the client and has their connection saved to the DB.
 - User writes query with a <code>sendMessage</code> route
-- Customer Service bot takes the business prompt, chat history and user prompt to respond with relevant information to the business, bridging support for customer and business rules and guidelines together.
+- Customer Service bot takes the business prompt, chat history and user prompt to respond with relevant information to the business, bridging support for customer with business rules and guidelines.
   
 ## Implementation
 The bot is fully implemented in AWS and can be integrated seamlessly into any web or mobile applications. Technologies include API Gateway for Websocket routing and middleware,
